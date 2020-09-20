@@ -1,1 +1,1 @@
-# rsschool-cv
+https://xmakcxx.io/rsschool-cv/

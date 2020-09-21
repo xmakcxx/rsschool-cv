@@ -1,0 +1,17 @@
+#fon{ 
+    width: 700px;
+    margin-left: 15%;
+    float: left;
+    /* padding-right: 20%; */
+}
+
+h2{
+font-size: 28px;
+border-bottom: solid 1px;
+margin-top: 40px;
+}
+#photo{
+    width: 400px;
+    float: right;
+    
+}
